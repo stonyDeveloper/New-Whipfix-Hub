@@ -1345,6 +1345,20 @@ a:hover.back-to-top {
 /*************************/
 
 
+/* Max-width 480px */
+
+@media only screen and (max-width: 768px) {
+    .header h1 {
+        font-size: 4rem;
+        margin-top: 4rem;
+        padding-top: 3rem;
+    }
+    .header .col-lg-6 .text-container {
+        margin-top: -9rem;
+    }
+}
+
+
 /* Min-width 768px */
 
 @media (min-width: 768px) {
