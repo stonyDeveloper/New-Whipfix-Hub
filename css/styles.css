@@ -1299,6 +1299,7 @@ a:hover.back-to-top {
 
 @media only screen and (max-width: 768px) {
     .header {
+        background-size: cover;
         background-attachment: fixed;
     }
     .header h1 {
