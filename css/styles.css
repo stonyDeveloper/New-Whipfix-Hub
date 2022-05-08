@@ -1306,7 +1306,7 @@ a:hover.back-to-top {
         width: 100vw;
         padding-right: 13%;
     }
-    .header .col-lg-12 {
+    .header .container .column .col-lg-12 {
         margin-left: -29px;
     }
     .header h1 {
