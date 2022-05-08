@@ -1299,13 +1299,21 @@ a:hover.back-to-top {
 
 @media only screen and (max-width: 768px) {
     .header {
-        background-attachment: fixed;
+        background-size: 100% 50%;
+        background-position: left top, right top;
+    }
+    .header .container .column {
+        width: 100vw;
+        padding-right: 13%;
+    }
+    .header .col-lg-12 {
+        margin-left: -29px;
     }
     .header h1 {
-        font-size: 3rem;
+        font-size: 14.5vw;
         margin-top: 4rem;
         padding-top: 3rem;
-        width: 100%;
+        text-align: center;
     }
     .header .col-lg-6 .text-container {
         margin-top: -9rem;
