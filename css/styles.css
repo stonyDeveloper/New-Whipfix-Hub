@@ -1302,12 +1302,10 @@ a:hover.back-to-top {
         background-size: 100% 40%;
         background-clip: border-box;
         background-position: left top, right top;
-        outline: red solid 1px;
         overflow-x: hidden;
     }
     .header .container .column {
         width: 100%;
-        outline: red solid 1px;
     }
     .header h1 {
         font-size: 13.7vw;
