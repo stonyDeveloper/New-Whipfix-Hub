@@ -1304,8 +1304,7 @@ a:hover.back-to-top {
         background-position: left top, right top;
     }
     .header .container .column {
-        width: 100vw;
-        padding-right: 13%;
+        width: 100%;
     }
     .header h1 {
         font-size: 13.7vw;
