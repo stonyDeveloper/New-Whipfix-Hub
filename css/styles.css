@@ -1311,12 +1311,10 @@ a:hover.back-to-top {
         margin-top: 4rem;
         padding-top: 3rem;
         text-align: center;
-        outline: red solid 1px;
         max-width: 100%;
     }
     .header .col-lg-6 .text-container {
         margin-top: -9rem;
-        outline: red solid 1px;
     }
 }
 
