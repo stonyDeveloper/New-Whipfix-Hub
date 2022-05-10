@@ -1299,8 +1299,8 @@ a:hover.back-to-top {
 
 @media only screen and (max-width: 768px) {
     .header {
-        background-size: 100% 40%;
-        background-repeat: no-repeat;
+        background-size: 905% 40%;
+        background-clip: border-box;
         background-position: left top, right top;
     }
     .header .container .column {
